@@ -1,0 +1,39 @@
+p{
+    background-color: rgba(0, 0, 0, 0.842);
+    color: white;
+    padding: 5px;
+    text-align: center;
+}
+.btnn{
+    padding: 8px;
+    border-radius: 10px;
+}
+footer{
+    background-color: black;
+    width: 50%;
+    margin: auto;
+    padding: 30px;
+    height: 250px;
+    color: white;
+}
+.section{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    
+    width: 50%;
+    margin: auto;
+    
+    padding: 30px;
+    border-radius: 3px;
+    
+}
+.colum1,.colum2,.colum3{
+    
+    
+    margin: 0;
+    background-color: rgba(0, 110, 255, 0.856);
+    width: 20   0px;
+    
+}
+.colum1{border-top-left-radius: 10px;}
+.colum3{border-top-right-radius: 10px;}
